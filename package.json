@@ -15,6 +15,7 @@
     "@fortawesome/vue-fontawesome": "^3.0.5",
     "bulma": "^0.9.4",
     "git": "^0.1.5",
+    "sweetalert2": "^11.11.0",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
     "vue-toastification": "^2.0.0-rc.5"
